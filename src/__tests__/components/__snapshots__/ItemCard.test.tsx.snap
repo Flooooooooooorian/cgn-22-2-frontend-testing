@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ItemCard test 1`] = `
+<DocumentFragment>
+  <p>
+    testName
+  </p>
+</DocumentFragment>
+`;
